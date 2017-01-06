@@ -1,2 +1,4 @@
 # hello-world
-look at neat thing
+look at this neat thing
+
+There are many ducks in a flock.
